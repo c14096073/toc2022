@@ -76,10 +76,9 @@ python3 app.py
 
 
 ## Bonus
-
-
 - Deploy on Heroku
 ![](https://img.onl/UdErez)
+
 -Line API 
 
 -image
