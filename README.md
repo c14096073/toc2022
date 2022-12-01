@@ -75,5 +75,11 @@ python3 app.py
 - employee:餐廳人員介紹
 
 
+## Bonus
 
+
+- Deploy on Heroku
+![](https://img.onl/UdErez)
+-Line API
+-image
 
