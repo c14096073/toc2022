@@ -54,8 +54,6 @@ python3 app.py
 ![]( https://img.onl/DqAJfe)
 
 ### 訂位
-![]( https://img.onl/we5UhL)
-![]( https://img.onl/Y9WChw)
 ![]( https://img.onl/G7Yol)
 
 ### 查看菜單
