@@ -51,7 +51,7 @@ python3 app.py
 ## 使用示範
 
 ### 加入好友訊息
-![]( https://img.onl/v5ihYa)
+![]( https://img.onl/DqAJfe)
 
 ### 訂位
 ![]( https://img.onl/we5UhL)
