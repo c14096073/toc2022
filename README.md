@@ -54,21 +54,33 @@ python3 app.py
 ![]( https://img.onl/DqAJfe)
 
 ### 訂位
+
 ![]( https://img.onl/we5UhL)
+
 ![]( https://img.onl/Y9WChw)
+
 ![]( https://img.onl/G7Yol)
+
 ### 查看菜單
+
 ![]( https://img.onl/C73X5L)
 
 ### 查看餐廳位置
+
 ![]( https://img.onl/mEPP2x)
+
 ### 餐廳人員介紹
+
 ![]( https://img.onl/Ce519F) 
+
 ### 問卷調查
+
 ![]( https://img.onl/wBo1S5)
 
 ## FSM
+
 ![](https://img.onl/zQ4JtS)
+
 ### state說明
 - user: 輸入蟹堡王開始使用線上服務
 - choose: 選擇需要的服務
