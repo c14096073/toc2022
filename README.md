@@ -39,6 +39,8 @@ python3 app.py
 ```
 
 ## 功能
+-加入好友訊息
+-問卷調查
 - 訂位
     - 人數
     - 時間
@@ -83,4 +85,4 @@ python3 app.py
 - Line API 
 
 - image
-
+- video
